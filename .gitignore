@@ -1,0 +1,5 @@
+venv
+*logs*
+/cloud_infrastructure/*terraform*
+/dags/utils/__p*
+/dags/__p*
